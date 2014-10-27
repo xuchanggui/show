@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[不开心你好我叫没烦恼]]></title>
+  <link href="http://wangmingzhong.github.com/atom.xml" rel="self"/>
+  <link href="http://wangmingzhong.github.com/"/>
+
+  <updated>2014-10-23T09:11:33+08:00</updated>
+  <id>http://wangmingzhong.github.com/</id>
+
+  <author>
+    <name><![CDATA[King]]></name>
+    <email><![CDATA[wangmingzhong.cncq@gmail.com]]></email>
+  </author>
+
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+
+
+  </entry>
+
+</feed>
